@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erixb1t
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on some kind of problem to solve it
+- 👀 I’m interested in better future
+- 🌱 I’m currently programming
+- 💞️ I’m looking to help you to find a solution
 - 📫 How to reach me https://www.linkedin.com/in/ēriks-petenko-aa429420b
 
 <!---
